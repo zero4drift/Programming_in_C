@@ -2,7 +2,9 @@
 *
 
 # Unignore all with extensions
-!*.*
+!*.c
+!*.h
+!*.txt
 
 # Unignore all dirs
 !*/
